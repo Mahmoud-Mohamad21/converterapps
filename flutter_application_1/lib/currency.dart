@@ -8,7 +8,9 @@ import 'package:flutter/material.dart';
 
 class Currency {
   String currency;
+  
   double rate;
+  
   
   
   Currency(this.currency, this.rate);
